@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1A47,100:5B21B6&height=220&section=header&text=Ngige%20Mwaniki&fontSize=48&fontColor=E9D8FD&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ML%2FAI%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Ngige%20Mwaniki&fontSize=48&fontColor=DBEAFE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ML%2FAI%20Engineer&descAlignY=58&descSize=18&descColor=BFDBFE" width="100%"/>
 
 <a href="https://github.com/Gigitogigs">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+ML%2FAI+Engineer;Building+production-grade+web+%26+AI+systems;Next.js+%C2%B7+Django+REST+%C2%B7+PyTorch+%C2%B7+PostgreSQL;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA&font=Fira+Code&center=true&width=650&height=45&duration=3200&pause=1000&color=A78BFA&vCenter=true&size=22&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+ML%2FAI+Engineer;Building+production-grade+web+%26+AI+systems;Next.js+%C2%B7+Django+REST+%C2%B7+PyTorch+%C2%B7+PostgreSQL;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA&font=Fira+Code&center=true&width=650&height=45&duration=3200&pause=1000&color=60A5FA&vCenter=true&size=22&background=00000000" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/BSc_Mathematics_%26_CS-Kenyatta_University-2E1A47?style=for-the-badge&labelColor=0F0817&color=5B21B6)
-![Location](https://img.shields.io/badge/Location-Nairobi,_Kenya-2E1A47?style=for-the-badge&labelColor=0F0817&color=5B21B6)
+![Education](https://img.shields.io/badge/BSc_Mathematics_%26_CS-Kenyatta_University-1E3A8A?style=for-the-badge&labelColor=0F172A&color=2563EB)
+![Location](https://img.shields.io/badge/Location-Nairobi,_Kenya-1E3A8A?style=for-the-badge&labelColor=0F172A&color=2563EB)
 
 <br/>
 
-<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0817" /></a>
-<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0817" /></a>
-<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0817" /></a>
-<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0817" /></a>
+<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
+<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" /></a>
 
 <br/><br/>
 
@@ -65,7 +65,7 @@ I care about **shipping complete, defensible systems** â€” not demos. That means
 
 **AI / ML**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-2E1A47?style=flat-square&logo=ollama&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-1E3A8A?style=flat-square&logo=ollama&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
@@ -273,11 +273,11 @@ Designed and developed a fully responsive Next.js law firm website end-to-end â€
 
 **Encode Club**
 
-![AI Foundation](https://img.shields.io/badge/AI_Foundation-2E1A47?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4%3D&logoColor=white&labelColor=0F0817)
+![AI Foundation](https://img.shields.io/badge/AI_Foundation-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4%3D&logoColor=white&labelColor=0F172A)
 
 **FutureLearn**
 
-![Microsoft AI](https://img.shields.io/badge/Microsoft_Professional_Program_in_AI-2E1A47?style=for-the-badge&labelColor=0F0817)
+![Microsoft AI](https://img.shields.io/badge/Microsoft_Professional_Program_in_AI-1E3A8A?style=for-the-badge&labelColor=0F172A)
 
 ---
 
@@ -290,7 +290,7 @@ Designed and developed a fully responsive Next.js law firm website end-to-end â€
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Gigitogigs&theme=tokyonight&hide_border=true&background=0F0817&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Gigitogigs&theme=tokyonight&hide_border=true&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE" width="70%"/>
 
 </div>
 
@@ -302,9 +302,11 @@ Designed and developed a fully responsive Next.js law firm website end-to-end â€
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gigitogigs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+<img src="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/trophy.svg" width="90%"/>
 
 </div>
+
+> Generated by the same GitHub Action workflow as the stats cards and snake animation â€” static, no public-instance dependency.
 
 ---
 
@@ -312,7 +314,7 @@ Designed and developed a fully responsive Next.js law firm website end-to-end â€
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gigitogigs&theme=tokyo-night&hide_border=true&bg_color=0F0817&color=A78BFA&line=8B5CF6&point=E9D8FD" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gigitogigs&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=DBEAFE" width="90%"/>
 
 </div>
 
@@ -355,10 +357,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0817" /></a>
-<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0817" /></a>
-<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0817" /></a>
-<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0817" /></a>
+<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" /></a>
 
 </div>
 
@@ -368,6 +370,6 @@ open_to:
 
 *"Build systems that are complete, not just impressive."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2E1A47,100:0F0817&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>

@@ -42,6 +42,14 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Generate GitHub trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: assets/trophy.svg
+          theme: algolia
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
