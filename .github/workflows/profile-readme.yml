@@ -48,7 +48,7 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: assets/trophy.svg
           theme: algolia
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
