@@ -4,7 +4,7 @@
 
 **Nairobi, Kenya · Building web products and applied AI systems**
 
-[Portfolio](https://gigitogigs.github.io/Ngige) · [LinkedIn](https://linkedin.com/in/ngige-mwaniki-b08287278) · [Email](mailto:ngigemwaniki2004@gmail.com)
+[🌐 Portfolio](https://gigitogigs.github.io/Ngige) · [💼 LinkedIn](https://linkedin.com/in/ngige-mwaniki-b08287278) · [✉️ Email](mailto:ngigemwaniki2004@gmail.com)
 
 </div>
 
@@ -12,23 +12,23 @@ I'm Ngige (Gigito), a full-stack developer working with Next.js, Django REST Fra
 
 **Open to full-stack and ML/AI engineering roles, freelance projects, and contract work.**
 
-## Selected work
+## 🚀 Selected work
 
-### Friday — Offline AI agent
+### 🔒 Friday — Offline AI agent
 
 A local Python/Ollama agent exploring how to make autonomous tools accountable. Built a six-level permission system, explicit approval workflows for sensitive operations, and append-only JSONL audit logging, with a 12-test pytest suite.
 
 **Python · Ollama · Click · Rich · pytest**<br />
 [Explore the repository →](https://github.com/Gigitogigs/Friday)
 
-### Lens.ke — Kenyan stock photography platform
+### 📸 Lens.ke — Kenyan stock photography platform
 
 Built the complete Next.js frontend at Lenana Labs: an editorial homepage, infinite-scroll search with tag, category, and location filters, an image lightbox, and a contributor earnings dashboard. Implemented in-memory access tokens, HttpOnly refresh-token rotation, and protected routes.
 
 **Next.js · Django REST Framework · PostgreSQL**<br />
 *Private repository · Lenana Labs*
 
-### W Mwaniki & Associates Advocates — Law firm website
+### ⚖️ W Mwaniki & Associates Advocates — Law firm website
 
 Delivered the site from brief and design through deployment, including nine practice-area pages and their content. Implemented structured data, on-page SEO, a Content Security Policy, code splitting, and asset optimization.
 
@@ -43,13 +43,17 @@ Delivered the site from brief and design through deployment, including nine prac
 
 </details>
 
-## Building now
+## 🔭 Building now
 
 - **Adia:** A jewelry e-commerce platform inspired by Nairobi craftsmanship. Building the storefront, checkout, and order management with Next.js, Tailwind CSS, Django REST Framework, and PostgreSQL.
 - **Campus Hub:** A student events hub and peer-to-peer marketplace for Kenyatta University, with a modular Django REST Framework backend.
 - **Exploring:** Agentic workflow automation for small businesses in East Africa.
 
-## Tools I work with
+## 🛠️ Tools I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,django,postgres,pytorch,tensorflow,git&perline=6" alt="Python, TypeScript, JavaScript, Next.js, React, Tailwind CSS, Django, PostgreSQL, PyTorch, TensorFlow, and Git" />
+</p>
 
 | Area | Technologies |
 | --- | --- |
@@ -59,7 +63,7 @@ Delivered the site from brief and design through deployment, including nine prac
 | AI & ML | PyTorch, TensorFlow, scikit-learn, Ollama |
 | Development | Git, GitHub, pytest, Postman |
 
-## Experience & background
+## 💼 Experience & background
 
 - **Subject Matter Expert · Snorkel AI** — Sep 2025–Present. Evaluate and generate technical content in programming and applied mathematics for AI research workflows, drawing on Python, algorithms, and numerical methods.
 - **Frontend Developer · Lenana Labs** — 2025–Present. Frontend engineering for Lens.ke, featured above.
@@ -68,7 +72,7 @@ Delivered the site from brief and design through deployment, including nine prac
 **Education:** Mathematics & Computer Science, Kenyatta University.<br />
 **Certifications:** AI Foundation — Encode Club; Microsoft Professional Program in AI — FutureLearn.
 
-## Around GitHub
+## 🐍 Around GitHub
 
 <details>
 <summary><strong>Stats & languages</strong></summary>
