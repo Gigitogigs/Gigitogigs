@@ -1,375 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Ngige%20Mwaniki&fontSize=48&fontColor=DBEAFE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ML%2FAI%20Engineer&descAlignY=58&descSize=18&descColor=BFDBFE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Ngige%20Mwaniki&fontSize=44&fontColor=DBEAFE&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ML%2FAI%20Engineer&descAlignY=62&descSize=18&descColor=BFDBFE" width="100%" alt="Ngige Mwaniki — Full-Stack Developer and ML/AI Engineer" />
 
-<a href="https://github.com/Gigitogigs">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+ML%2FAI+Engineer;Building+production-grade+web+%26+AI+systems;Next.js+%C2%B7+Django+REST+%C2%B7+PyTorch+%C2%B7+PostgreSQL;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA&font=Fira+Code&center=true&width=650&height=45&duration=3200&pause=1000&color=60A5FA&vCenter=true&size=22&background=00000000" alt="Typing SVG" />
-</a>
+**Nairobi, Kenya · Building web products and applied AI systems**
 
-<br/>
-
-![Education](https://img.shields.io/badge/BSc_Mathematics_%26_CS-Kenyatta_University-1E3A8A?style=for-the-badge&labelColor=0F172A&color=2563EB)
-![Location](https://img.shields.io/badge/Location-Nairobi,_Kenya-1E3A8A?style=for-the-badge&labelColor=0F172A&color=2563EB)
-
-<br/>
-
-<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" /></a>
-<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
-<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
-<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gigitogigs&style=for-the-badge&color=5b21b6&labelColor=0f0817)
-![Followers](https://img.shields.io/github/followers/Gigitogigs?style=for-the-badge&labelColor=0f0817&color=5b21b6)
-![Stars](https://img.shields.io/github/stars/Gigitogigs?style=for-the-badge&labelColor=0f0817&color=5b21b6)
+[🌐 Portfolio](https://gigitogigs.github.io/Ngige) · [💼 LinkedIn](https://linkedin.com/in/ngige-mwaniki-b08287278) · [✉️ Email](mailto:ngigemwaniki2004@gmail.com)
 
 </div>
 
-<br/>
+I'm Ngige (Gigito), a full-stack developer working with Next.js, Django REST Framework, and Python. I build across the stack, from interfaces and APIs to databases and local AI tools, with particular attention to authentication, permissions, and auditability.
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> About Me
+**Open to full-stack and ML/AI engineering roles, freelance projects, and contract work.**
 
-```yaml
-name: "Ngige Mwaniki (Gigito)"
-role: "Full-Stack Developer · ML/AI Engineer"
-based_in: "Nairobi, Kenya"
-education: "BSc Mathematics & Computer Science, Kenyatta University (Expected Dec 2025)"
-```
+## 🚀 Selected work
 
-I'm a full-stack engineer who builds end-to-end — from Django REST Django APIs and PostgreSQL schemas to polished Next.js frontends and the ML pipelines that sit behind them. My work spans production platforms, applied AI/ML systems, and security-conscious auth architecture (in-memory JWT, HttpOnly refresh rotation, strict CSP).
+### 🔒 Friday — Offline AI agent
 
-I care about **shipping complete, defensible systems** — not demos. That means test coverage, audit logging, permission governance, and performance budgets are part of the build, not an afterthought.
+A local Python/Ollama agent exploring how to make autonomous tools accountable. Built a six-level permission system, explicit approval workflows for sensitive operations, and append-only JSONL audit logging, with a 12-test pytest suite.
 
-**🔭 Currently:** Architecting solo full-stack products (e-commerce, campus platforms) end-to-end — schema through deployment
-**🧠 Also:** Evaluating and generating expert-level technical content for confidential AI research workflows at Snorkel AI
-**🌱 Exploring:** Agentic workflow automation for SMB use cases across East African markets
+**Python · Ollama · Click · Rich · pytest**<br />
+[Explore the repository →](https://github.com/Gigitogigs/Friday)
 
-**💬 Open to:** Full-stack engineering roles · ML/AI engineering roles · Freelance & contract builds
+### 📸 Lens.ke — Kenyan stock photography platform
 
----
+Built the complete Next.js frontend at Lenana Labs: an editorial homepage, infinite-scroll search with tag, category, and location filters, an image lightbox, and a contributor earnings dashboard. Implemented in-memory access tokens, HttpOnly refresh-token rotation, and protected routes.
 
-## 🛠️ Tech Stack
+**Next.js · Django REST Framework · PostgreSQL**<br />
+*Private repository · Lenana Labs*
 
-**Languages**
+### ⚖️ W Mwaniki & Associates Advocates — Law firm website
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java)
+Delivered the site from brief and design through deployment, including nine practice-area pages and their content. Implemented structured data, on-page SEO, a Content Security Policy, code splitting, and asset optimization.
 
-**Frontend**
-
-![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
-
-**Backend & Databases**
-
-![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase)
-
-**AI / ML**
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-1E3A8A?style=flat-square&logo=ollama&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
-
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Applied Machine Learning** | ⭐⭐⭐⭐☆ | Scikit-learn pipelines, ensemble models (Random Forest), feature engineering |
-| **Deep Learning / CV** | ⭐⭐⭐⭐☆ | CNN architectures in PyTorch/TensorFlow for image classification |
-| **LLM Integration** | ⭐⭐⭐⭐☆ | Local/offline LLM agents via Ollama (deepseek-r1), permission-governed tool execution |
-| **Data-Centric AI** | ⭐⭐⭐⭐☆ | Expert-level model output evaluation & data quality workflows (Snorkel AI) |
-| **Numerical Methods** | ⭐⭐⭐⭐☆ | PDEs, simulations & modelling, numerical analysis (academic + applied) |
-
-</div>
-
----
-
-## 🚀 Featured Projects
+**Next.js · SEO · Performance optimization · Truehost**<br />
+*Private repository · Client project*
 
 <details>
-<summary><b>🔒 Friday — Privacy-First Offline AI Agent</b></summary>
-<br/>
+<summary><strong>More applied ML projects</strong></summary>
 
-A fully offline local AI agent with a 6-level Permission & Safety Governor enforcing explicit approval before any sensitive operation executes. Zero external data transmission.
-
-| | |
-|---|---|
-| **Stack** | Python, Ollama (deepseek-r1:1.5b), Click, Rich, pytest |
-| **Scale** | 6-tier permission governance model |
-| **Performance** | Fully local inference — no network dependency |
-| **Security** | Append-only JSONL audit logging, explicit approval workflows |
-| **Impact** | 100% test coverage (12/12 tests), zero data leaves the device |
-| **Repository** | [github.com/Gigitogigs/Friday](https://github.com/Gigitogigs/Friday) |
-
-Built to explore what a *trustworthy* autonomous agent looks like when every sensitive action is gated and logged rather than silently executed — a governance-first approach to agentic AI.
+- **F1 Race Winner Predictor:** A Random Forest model using historical race data, with preprocessing, training, and prediction in a scikit-learn pipeline.
+- **CNN Fruit Classifier:** Image classification on the Fruits-360 dataset using convolutional neural networks.
 
 </details>
 
-<details>
-<summary><b>📸 Lens.ke — Kenyan Stock Photography Platform</b></summary>
-<br/>
+## 🔭 Building now
 
-Solo-built frontend for a Getty Images-style stock photography platform focused on the Kenyan market, built as Frontend Developer at Lenana Labs.
+- **Adia:** A jewelry e-commerce platform inspired by Nairobi craftsmanship. Building the storefront, checkout, and order management with Next.js, Tailwind CSS, Django REST Framework, and PostgreSQL.
+- **Campus Hub:** A student events hub and peer-to-peer marketplace for Kenyatta University, with a modular Django REST Framework backend.
+- **Exploring:** Agentic workflow automation for small businesses in East Africa.
 
-| | |
-|---|---|
-| **Stack** | Next.js 16 (App Router), Django REST Framework, PostgreSQL/Supabase |
-| **Scale** | Editorial homepage, infinite-scroll search, live filtering |
-| **Performance** | Glassmorphic image lightbox, optimized infinite scroll |
-| **Security** | Double-layer route protection, strict HTTP security headers, in-memory JWT with HttpOnly refresh rotation, XSS mitigation |
-| **Impact** | End-to-end contributor earnings dashboard + full production frontend, built solo |
-| **Repository** | Private (Lenana Labs) |
+## 🛠️ Tools I work with
 
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,django,postgres,pytorch,tensorflow,git&perline=6" alt="Python, TypeScript, JavaScript, Next.js, React, Tailwind CSS, Django, PostgreSQL, PyTorch, TensorFlow, and Git" />
+</p>
 
-<details>
-<summary><b>💎 Adia — Premium Jewelry E-Commerce</b></summary>
-<br/>
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript, Java |
+| Frontend | Next.js, React, Tailwind CSS, HTML, CSS |
+| Backend & data | Django REST Framework, FastAPI, Node.js, PostgreSQL, Supabase |
+| AI & ML | PyTorch, TensorFlow, scikit-learn, Ollama |
+| Development | Git, GitHub, pytest, Postman |
 
-A premium jewelry e-commerce platform ("Adia," Swahili for *gift*), with a brand identity centered on Nairobi craftsmanship. *In active development.*
+## 💼 Experience & background
 
-| | |
-|---|---|
-| **Stack** | Next.js + Tailwind v4, Django REST Framework, PostgreSQL |
-| **Scale** | Full storefront: catalog, checkout, order management |
-| **Performance** | Custom Tailwind v4 design tokens, Fraunces + Manrope type system |
-| **Security** | Flutterwave-backed payment integration |
-| **Impact** | Brand system, palette, and layout architecture designed from scratch |
-| **Repository** | In development |
+- **Subject Matter Expert · Snorkel AI** — Sep 2025–Present. Evaluate and generate technical content in programming and applied mathematics for AI research workflows, drawing on Python, algorithms, and numerical methods.
+- **Frontend Developer · Lenana Labs** — 2025–Present. Frontend engineering for Lens.ke, featured above.
+- **Web Developer · W Mwaniki & Associates Advocates** — Apr 2025–Jan 2026. Website design, development, and deployment, featured above.
 
-</details>
+**Education:** Mathematics & Computer Science, Kenyatta University.<br />
+**Certifications:** AI Foundation — Encode Club; Microsoft Professional Program in AI — FutureLearn.
+
+## 🐍 Around GitHub
 
 <details>
-<summary><b>🎓 Campus Hub — Student Platform for Kenyatta University</b></summary>
-<br/>
+<summary><strong>Stats & languages</strong></summary>
 
-A student-only mobile platform combining an events hub and a peer-to-peer marketplace. *In active development.*
-
-| | |
-|---|---|
-| **Stack** | Django REST Framework, PostgreSQL |
-| **Scale** | Five-app backend architecture with abstract base models |
-| **Performance** | Modular app design for independent scaling of events/marketplace |
-| **Security** | Student-only access model |
-| **Impact** | Designed for Kenyatta University's student population |
-| **Repository** | In development |
+<p align="center">
+  <img src="assets/stats.svg" width="49%" alt="Ngige's GitHub contribution and repository statistics" />
+  <img src="assets/top-langs.svg" width="49%" alt="Language distribution across Ngige's GitHub repositories" />
+</p>
 
 </details>
-
-<details>
-<summary><b>🏎️ F1 Race Winner Predictor</b></summary>
-<br/>
-
-A machine learning model predicting Formula 1 race outcomes using historical performance data.
-
-| | |
-|---|---|
-| **Stack** | Python, Scikit-learn |
-| **Scale** | Random Forest ensemble within a full sklearn Pipeline |
-| **Performance** | End-to-end preprocessing → training → prediction pipeline |
-| **Security** | N/A |
-| **Impact** | Applied ensemble learning to real-world sports prediction |
-| **Repository** | [github.com/Gigitogigs](https://github.com/Gigitogigs) |
-
-</details>
-
-<details>
-<summary><b>🍎 CNN Fruit Classifier</b></summary>
-<br/>
-
-A convolutional neural network trained to classify fruit images with high accuracy.
-
-| | |
-|---|---|
-| **Stack** | Python, TensorFlow/PyTorch, CNNs |
-| **Scale** | Trained on the Fruits-360 dataset |
-| **Performance** | 95% classification accuracy |
-| **Security** | N/A |
-| **Impact** | Demonstrates applied deep learning for computer vision tasks |
-| **Repository** | [github.com/Gigitogigs](https://github.com/Gigitogigs) |
-
-</details>
-
-<details>
-<summary><b>⚖️ W Mwaniki & Associates Advocates — Law Firm Website</b></summary>
-<br/>
-
-Fully responsive law firm website built end-to-end — brief, design system, and deployment.
-
-| | |
-|---|---|
-| **Stack** | Next.js, deployed on Truehost |
-| **Scale** | Nine practice-area pages + full content authorship |
-| **Performance** | 30% page load reduction via code splitting & asset optimization |
-| **Security** | Strict Content Security Policy |
-| **Impact** | On-page SEO + structured data markup for organic visibility |
-| **Repository** | Private (client project) |
-
-</details>
-
----
-
-## 💼 Experience
-
-**Subject Matter Expert** · Snorkel AI
-`Sep 2025 – Present · Remote`
-
-Evaluating and generating expert-level technical content across programming and applied mathematics domains, contributing to confidential AI research workflows. Selected from a competitive pool of specialists and retained across multiple project cycles.
-
-- Apply depth in Python, algorithms, data structures, and numerical methods to assess and improve model outputs at scale
-- Consistent expert-level output across multiple retained project cycles
-
-`Python` `Algorithms` `Numerical Methods` `AI Evaluation`
-
-<br/>
-
-**Frontend Developer** · Lenana Labs — Lens.ke
-`2025 – Present · Nairobi, Kenya`
-
-Architected and engineered the complete Next.js 16 (App Router) frontend for a Getty Images-style stock photography platform focused on Kenya.
-
-- Implemented editorial homepage, infinite-scroll search with live tag/category/location filtering, and a glassmorphic image lightbox
-- Built a contributor earnings dashboard
-- Enforced double-layer route protection, strict HTTP security headers, and XSS-resistant in-memory JWT with HttpOnly refresh token rotation
-
-`Next.js` `DRF` `PostgreSQL` `Auth & Security`
-
-<br/>
-
-**Web Developer** · W Mwaniki & Associates Advocates
-`Apr 2025 – Jan 2026 · Nairobi, Kenya`
-
-Designed and developed a fully responsive Next.js law firm website end-to-end — brief, design system, nine practice area pages, and deployment.
-
-- Implemented on-page SEO and structured data markup
-- Enforced a strict Content Security Policy
-- Reduced page load time by 30% through code splitting and asset optimization
-
-`Next.js` `SEO` `CSP` `Performance`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **Snorkel AI SME Retention** | Selected from a competitive specialist pool; retained across multiple project cycles |
-| **Friday — 100% Test Coverage** | 12/12 pytest suite passing on a zero-network AI agent |
-| **CNN Fruit Classifier — 95% Accuracy** | Trained on the Fruits-360 dataset |
-| **Law Firm Site — 30% Faster Loads** | Achieved via code splitting & asset optimization |
-
-</div>
-
----
-
-## 📜 Certifications
-
-**Encode Club**
-
-![AI Foundation](https://img.shields.io/badge/AI_Foundation-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4%3D&logoColor=white&labelColor=0F172A)
-
-**FutureLearn**
-
-![Microsoft AI](https://img.shields.io/badge/Microsoft_Professional_Program_in_AI-1E3A8A?style=for-the-badge&labelColor=0F172A)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/stats.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/top-langs.svg" width="49%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Gigitogigs&theme=tokyonight&hide_border=true&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE" width="70%"/>
-
-</div>
-
-> Stats and top-languages cards above are generated by a GitHub Action in this repo (`.github/workflows/profile-readme.yml`) and committed as static SVGs — no dependency on a live third-party server. The streak-stats badge still hits a public instance; swap it for a static version later if it ever breaks the same way.
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/trophy.svg" width="90%"/>
-
-</div>
-
-> Generated by the same GitHub Action workflow as the stats cards and snake animation — static, no public-instance dependency.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gigitogigs&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=DBEAFE" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Gigitogigs/Gigitogigs/main/assets/github-snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img src="assets/github-snake.svg" width="100%" alt="An animated snake tracing my GitHub contribution grid" />
 </picture>
 
-</div>
-
 ---
 
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - "Advanced agentic AI system design"
-  - "DSA (NeetCode roadmap)"
-building:
-  - "Adia — premium jewelry e-commerce platform"
-  - "Campus Hub — student events & marketplace app"
-exploring:
-  - "Agentic workflow automation for SMB use cases in East Africa"
-open_to:
-  - "Full-stack engineering roles"
-  - "ML/AI engineering roles"
-  - "Freelance & contract builds"
-```
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-<a href="mailto:ngigemwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
-<a href="https://linkedin.com/in/ngige-mwaniki-b08287278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
-<a href="https://github.com/Gigitogigs" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" /></a>
-<a href="https://gigitogigs.github.io/Ngige" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Build systems that are complete, not just impressive."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
-
-</div>
+Have a product to build or an engineering role to discuss? [Get in touch →](mailto:ngigemwaniki2004@gmail.com)
