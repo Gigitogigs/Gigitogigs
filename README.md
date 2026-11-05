@@ -46,7 +46,7 @@ Delivered the site from brief and design through deployment, including nine prac
 ## 🔭 Building now
 
 - **Adia:** A jewelry e-commerce platform inspired by Nairobi craftsmanship. Building the storefront, checkout, and order management with Next.js, Tailwind CSS, Django REST Framework, and PostgreSQL.
-- **Campus Hub:** A student events hub and peer-to-peer marketplace for Kenyatta University, with a modular Django REST Framework backend.
+- **Campus Hub:** A student events hub and peer-to-peer marketplace for Kenyan Universities, with a modular Django REST Framework backend.
 - **Exploring:** Agentic workflow automation for small businesses in East Africa.
 
 ## 🛠️ Tools I work with
